@@ -1,0 +1,2 @@
+/root/quarkus-quickstarts/opentelemetry-quickstart/src/main/java/org/acme/opentelemetry/TracedResource.java
+/root/quarkus-quickstarts/opentelemetry-quickstart/src/main/java/org/acme/opentelemetry/ResourceClient.java
